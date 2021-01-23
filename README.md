@@ -3,7 +3,7 @@ sensor for detail information from gpu
 current version 0.1
 current support one GPU for V0.1 only
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/qq1499412503/GPU_Sensor/blob/main/example.PNG)
 
 # how to use
 run gpu.py with following package: 
