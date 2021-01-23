@@ -21,10 +21,10 @@ cd GPU_Sensor <br/>
 python gpu.py <br/> 
 
 # easy to install 
-for windows:<br/> 
+**for windows:**<br/> 
   download here:<br/> 
   https://drive.google.com/file/d/1f_DMJNA8lMX93N4mUkwNQv2s0PltRIr3/view?usp=sharing  <br/> 
-for linux:<br/> 
+**for linux:**<br/> 
   please wait for next update or manually install with python script <br/> 
   optional choice with 'wine' application <br/> 
   and also optional with .desktop(ubuntu) or other types of shortcut <br/>
