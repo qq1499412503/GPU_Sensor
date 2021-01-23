@@ -9,8 +9,10 @@ current support one GPU for V0.1 only<br/>
 run gpu.py with following package: <br/> 
 pyqt5, pynvml<br/> 
 
+# install code
 pip install pyqt5<br/> 
 pip install pynvml<br/> 
+git clone XXXX.git
 
 # easy to install 
 for windows:<br/> 
