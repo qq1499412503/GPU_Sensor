@@ -1,6 +1,5 @@
 # GPU_Sensor
 
-# description
 sensor for detail information from gpu <br/> 
 current version 0.1 <br/> 
 current support one GPU for V0.1 only <br/> 
